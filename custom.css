@@ -157,12 +157,12 @@ div.prompt.output_prompt {
 div.CodeMirror span.CodeMirror-matchingbracket {
     color: #000000;
     font-weight: 400;
-    background-color: #70DF84;
+    background-color: #b3ffb3;
 }
 div.CodeMirror span.CodeMirror-nonmatchingbracket {
-    color: #ffffff;
+    color: #000000;
     font-weight: 400;
-    background: #D84B71 !important;
+    background: #ff99ce !important;
 }
 
 /*** Markdown ***/
